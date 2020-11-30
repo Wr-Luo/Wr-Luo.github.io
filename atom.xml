@@ -2,13 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Wr-Luo.github.io</id>
     <title>Wr-Luo</title>
-    <updated>2020-11-30T05:19:05.163Z</updated>
+    <updated>2020-11-30T05:34:51.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Wr-Luo.github.io"/>
     <link rel="self" href="https://Wr-Luo.github.io/atom.xml"/>
     <logo>https://Wr-Luo.github.io/images/avatar.png</logo>
     <icon>https://Wr-Luo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wr-Luo</rights>
+    <entry>
+        <title type="html"><![CDATA[Zero]]></title>
+        <id>https://Wr-Luo.github.io/post/zero/</id>
+        <link href="https://Wr-Luo.github.io/post/zero/">
+        </link>
+        <updated>2020-11-30T05:30:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>一个新的开始，还在摸索中......!❤️</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一个新的开始，还在摸索中......!❤️</p>
+<!-- more -->
+<p>MORE?</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Wr-Luo.github.io/post/hello-gridea/</id>
